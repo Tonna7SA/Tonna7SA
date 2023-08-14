@@ -63,7 +63,7 @@ Hola Soy Gonzalo Barrasa, comenzado en este mundo de la programacion...
            ![Tonna7SA](https://github-readme-stats.vercel.app/api?username=tonna7sa)
            
 
-       <h1 align="center">Hola 👋 , soy Gonzalo Barrasa</h1><h3 align="center">Soy un apasionado del Back-End en Argentina</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=tonna7sa&label=Profile%20views&color=0e75b6&style=flat" alt="tonna7sa" /> </p>
+<h1 align="center">Hola 👋 , soy Gonzalo Barrasa</h1><h3 align="center">Soy un apasionado del Back-End en Argentina</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=tonna7sa&label=Profile%20views&color=0e75b6&style=flat" alt="tonna7sa" /> </p>
 
 
 
