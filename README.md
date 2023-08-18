@@ -81,8 +81,8 @@ Hola Soy Gonzalo Barrasa, comenzado en este mundo de la programacion...
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tonna7sa" height="30" width="40" /></a>
 
 <a href="https://linkedin.com/in/tonna7sa" target="blank" style="color:orange">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tonna7sa" height="30" width="40" /></a>
-
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adam pithewan" height="30" width="40" />
 <a href="https://fb.com/gonzalo barrasa" target="blank">
 <img style="color:orange" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gonzalo barrasa" height="30" width="40" /></a>
 
