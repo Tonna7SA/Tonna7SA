@@ -73,12 +73,21 @@ Hola Soy Gonzalo Barrasa, comenzado en este mundo de la programacion...
 
 
 <h3 align="left">Conéctate conmigo:</h3><p align="left">
-<a href="https://codepen.io/tonna7sa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tonna7sa" height="30" width="40" /></a>
 
-<a href="https://twitter.com/tonna7sa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tonna7sa" height="30" width="40" /></a><
-a href="https://linkedin.com/in/tonna7sa" target="blank"><img align="center" src=" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tonna7sa" height="30" width="40" /></a>
-<a href="https://fb.com/gonzalo barrasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gonzalo barrasa" height="30" width="40" /></a>
-<a href="https://instagram.com/gonzalobarrasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gonzalobarrasa" height="30" width="40" /></a></p>
+<a href="https://codepen.io/tonna7sa" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tonna7sa" height="30" width="40" /></a>
+
+<a href="https://twitter.com/tonna7sa" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tonna7sa" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/tonna7sa" target="blank">
+<img align="center" src=" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="tonna7sa" height="30" width="40" /></a>
+
+<a href="https://fb.com/gonzalo barrasa" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gonzalo barrasa" height="30" width="40" /></a>
+
+<a href="https://instagram.com/gonzalobarrasa" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gonzalobarrasa" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 
