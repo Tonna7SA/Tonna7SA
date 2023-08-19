@@ -7,6 +7,14 @@
 
 Hola Soy Gonzalo Barrasa, comenzado en este mundo de la programacion...
 
+<img src="https://profile-counter.glitch.me/Tonna7SA/count.svg">
+
+[![GitHub followers](https://img.shields.io/github/followers/Tonna7SA.svg?style=social&label=Followers)](https://github.com/Tonna7SA?tab=followers)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hola+!+!+!+Soy+Gonzalo+!;Full-Stack+Developer...;Codeando+y+aprendiendo;a+todo+momento)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=Tonna7SA&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+
 
 ## Tecnologías:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
