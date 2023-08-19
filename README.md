@@ -9,6 +9,11 @@ Hola Soy Gonzalo Barrasa, comenzado en este mundo de la programacion...
 
 <img src="https://profile-counter.glitch.me/Tonna7SA/count.svg">
 
+<div align="center">
+  <img  src="https://github.com/Tonna7SA/Tonna7SA/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 [![GitHub followers](https://img.shields.io/github/followers/Tonna7SA.svg?style=social&label=Followers)](https://github.com/Tonna7SA?tab=followers)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hola+!+!+!+Soy+Gonzalo+!;Full-Stack+Developer...;Codeando+y+aprendiendo;a+todo+momento)](https://git.io/typing-svg)
