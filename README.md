@@ -11,6 +11,8 @@ Hola Soy Gonzalo Barrasa, comenzado en este mundo de la programacion...
 
 ![snake animation](https://github.com/Tonna7SA/Tonna7SA/blob/output/github-contribution-grid-snake.svg)
 
+![snake animation](https://github.com/Tonna7SA/Tonna7SA/blob/output/github-contribution-grid-snake2.svg)
+
 
 https://github.com/Tonna7SA/Tonna7SA/blob/output/github-contribution-grid-snake.gif
 
