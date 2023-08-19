@@ -7,10 +7,8 @@
 
 ![snake animation](https://github.com/Tonna7SA/Tonna7SA/blob/output/github-contribution-grid-snake.svg)
 
-![snake animation](https://github.com/Tonna7SA/Tonna7SA/blob/output/github-contribution-grid-snake2.svg)
 
-
-https://github.com/Tonna7SA/Tonna7SA/blob/output/github-contribution-grid-snake.gif
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 [![GitHub followers](https://img.shields.io/github/followers/Tonna7SA.svg?style=social&label=Followers)](https://github.com/Tonna7SA?tab=followers)
 
