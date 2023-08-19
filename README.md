@@ -1,11 +1,4 @@
-### Hi there 👋
-
-
-**Tonna7SA/Tonna7SA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-### Full Stack Developer
-
-Hola Soy Gonzalo Barrasa, comenzado en este mundo de la programacion...
+<h1 align="center"><b>Hi , I'm Gonzalo Barrasa </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <img src="https://profile-counter.glitch.me/Tonna7SA/count.svg">
 
