@@ -9,6 +9,9 @@ Hola Soy Gonzalo Barrasa, comenzado en este mundo de la programacion...
 
 <img src="https://profile-counter.glitch.me/Tonna7SA/count.svg">
 
+
+![Snake animation](https://github.com/tonna7SA/tonna7SA/blob/output/github-contribution-grid-snake.svg)
+
 ![snake animation](https://github.com/Tonna7SA/Tonna7SA/blob/output/github-contribution-grid-snake.svg)
 
 ![snake animation](https://github.com/Tonna7SA/Tonna7SA/blob/output/github-contribution-grid-snake2.svg)
